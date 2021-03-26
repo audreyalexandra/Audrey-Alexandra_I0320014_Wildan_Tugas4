@@ -14,4 +14,4 @@ d = ~bil1
 print("d. ~4 =",d)
 
 e = bil1 & bil2
-print("e. 4 & 11 =",e)
+print("e. 4 & 11 =",e) 
